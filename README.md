@@ -1,10 +1,10 @@
 # Calculator-in-python
-Simple Calculator in python 
+Simple Calculator in python, the program consists of basic functionalities of a real calculator like Addition, Subtraction, Multiplication, and Division.
 
-The program is made using two approaches 
-first using if else ladder and the second is using match statement which is now available in python 3.10
-
-The python match is similar to the switch statement in C/C++ or java.
+After running the program you will be asked to input number associated with your desired operation. 
+Enter 1 for ADDITION
+Enter 2 for SUBTRACTION
+etc.....
 
 Output of the program : 
 
